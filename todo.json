@@ -1,0 +1,22 @@
+[
+ {
+  "id": "c6155000-50f5-4ec7-8884-387c5160fcc8",
+  "todo": "Learn Marshals",
+  "is_complete": true
+ },
+ {
+  "id": "1d6ade70-acff-41b2-b3ab-86fa51571223",
+  "todo": "Complete Go REST API",
+  "is_complete": true
+ },
+ {
+  "id": "7849dbad-af9b-4b60-ab2b-ecd340f0f456",
+  "todo": "Complete GORM",
+  "is_complete": false
+ },
+ {
+  "id": "fcc0d54b-20b3-4184-a8e1-7005f55c3011",
+  "todo": "Do a test run",
+  "is_complete": true
+ }
+]
