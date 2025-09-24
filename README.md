@@ -1,6 +1,6 @@
 # TodoList
 
-Short description of what your Go project does.
+Todo application that creates todo and able to update status of the todo. All todos are stored in JSON file.
 
 ## Installation
 
